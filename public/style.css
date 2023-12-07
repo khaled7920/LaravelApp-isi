@@ -1,0 +1,17 @@
+
+.tab{
+    width: 800px;
+ }
+ 
+ 
+ table{
+    box-shadow: 2px 0px 8px 0px black;
+ }
+
+ caption{
+   border: solid 2px black;
+   width: 400px;
+   margin-left: 25%;
+   height: 50px;
+   color:white;
+ }
